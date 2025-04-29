@@ -10,7 +10,7 @@ Obviously the easist way is to simply use WSL2. If set-up correctly, it allows y
 distros are actually enable by default) without the overhead of a virtual machine. Some tricks are required to 
 visualize GUI's and the network. However, it is generally hard to get access to all the devices connected to your 
 machine. That can be very problamitic when trying to get cameras or robots in general to work.
-More on that in [WSL-README](.wsl/README.md).
+More on that in [WSL-README](wsl/README.md).
 
 ## MSYS2
 
