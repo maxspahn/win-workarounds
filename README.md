@@ -18,6 +18,15 @@ A recent things that I am delighted to have found out about is MSYS2. I have yet
 it says something about `native` and `pacman` so I was hooked. I will try to gather my setup here, but for now, I refer
 to [MSYS2.org](https://www.msys2.org/).
 
+The thing about startup speed and speed in general. Often times, these solutions result in authentifaction loops making
+in highly slow to work with. A quick fix with explaination can be found at 
+[Chennas blog](https://chenna.me/blog/2019/09/11/msys2-fix-slow-startup/).
+
+## Git Bash
+
+GIT Bash is on old classic to bring the unix world to Windows and should not be forgotten. My biggest drawback with
+this is lacking support for many unix programs like tmux and grep.
+
 
 ## Terminal
 
